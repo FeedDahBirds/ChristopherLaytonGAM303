@@ -17,7 +17,8 @@
 				"C:/Users/chris/SchoolGameProjects/CubeBoyTCW/Content/Interface/Interface_Interact.uasset",
 				"C:/Users/chris/SchoolGameProjects/CubeBoyTCW/Content/Interactables/Interact.uasset",
 				"C:/Users/chris/SchoolGameProjects/CubeBoyTCW/Content/Interactables/BP_CollectablePickup.uasset",
-				"C:/Users/chris/SchoolGameProjects/CubeBoyTCW/Content/Interactables/BP_PhysicsPickup.uasset"
+				"C:/Users/chris/SchoolGameProjects/CubeBoyTCW/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/chris/SchoolGameProjects/CubeBoyTCW/Content/Interactables/AnimatedInteractables/BP_Door.uasset"
 			]
 		}
 	]
